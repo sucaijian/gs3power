@@ -1,0 +1,14 @@
+{
+    "name": "Studio",
+    "author": "Terence",
+    "version": "1.2",
+    "engines": {
+        "rdk": ">1.0.0"
+    },
+    "description": "",
+    "ptype": 0,
+    "prefix": "",
+    "config": "./data/newPc.rbs",
+    "m_prefix": "",
+    "m_config": "./data/mobile.rbs"
+}

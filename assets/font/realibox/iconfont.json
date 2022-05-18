@@ -1,0 +1,268 @@
+{
+  "id": "2062919",
+  "name": "传祺项目_Realibox",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "22824566",
+      "name": "app二维码",
+      "font_class": "apperweima",
+      "unicode": "e64d",
+      "unicode_decimal": 58957
+    },
+    {
+      "icon_id": "26095247",
+      "name": "打开",
+      "font_class": "dakai",
+      "unicode": "e691",
+      "unicode_decimal": 59025
+    },
+    {
+      "icon_id": "26095248",
+      "name": "收缩",
+      "font_class": "shousuo",
+      "unicode": "e692",
+      "unicode_decimal": 59026
+    },
+    {
+      "icon_id": "26095111",
+      "name": "版本",
+      "font_class": "banben",
+      "unicode": "e690",
+      "unicode_decimal": 59024
+    },
+    {
+      "icon_id": "24157582",
+      "name": "立即购买",
+      "font_class": "a-bianzu7",
+      "unicode": "e684",
+      "unicode_decimal": 59012
+    },
+    {
+      "icon_id": "24157524",
+      "name": "预约试驾",
+      "font_class": "a-bianzu8",
+      "unicode": "e683",
+      "unicode_decimal": 59011
+    },
+    {
+      "icon_id": "12911875",
+      "name": "下 拉",
+      "font_class": "xiala",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "14456895",
+      "name": "下 拉",
+      "font_class": "shang",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "18769936",
+      "name": "M",
+      "font_class": "M",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "18748076",
+      "name": "suo",
+      "font_class": "suo",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "18524375",
+      "name": "首页-未选中",
+      "font_class": "shouye-weixuanzhong",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "18524376",
+      "name": "购买-未选中",
+      "font_class": "goumai-weixuanzhong",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "18524377",
+      "name": "商城-未选中",
+      "font_class": "shangcheng-weixuanzhong",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "17586173",
+      "name": "icons_del",
+      "font_class": "icons_del",
+      "unicode": "e751",
+      "unicode_decimal": 59217
+    },
+    {
+      "icon_id": "17586174",
+      "name": "icons_add",
+      "font_class": "icons_add",
+      "unicode": "e752",
+      "unicode_decimal": 59218
+    },
+    {
+      "icon_id": "17586175",
+      "name": "icons_checked",
+      "font_class": "icons_checked",
+      "unicode": "e753",
+      "unicode_decimal": 59219
+    },
+    {
+      "icon_id": "17586112",
+      "name": "icons_config",
+      "font_class": "icons_config",
+      "unicode": "e750",
+      "unicode_decimal": 59216
+    },
+    {
+      "icon_id": "17450797",
+      "name": "back",
+      "font_class": "back",
+      "unicode": "e74f",
+      "unicode_decimal": 59215
+    },
+    {
+      "icon_id": "17390774",
+      "name": "notnow",
+      "font_class": "zanbuchoujiang",
+      "unicode": "e74d",
+      "unicode_decimal": 59213
+    },
+    {
+      "icon_id": "17390775",
+      "name": "getnow",
+      "font_class": "likechoujiang",
+      "unicode": "e74e",
+      "unicode_decimal": 59214
+    },
+    {
+      "icon_id": "17134978",
+      "name": "text_reserve",
+      "font_class": "text_reserve",
+      "unicode": "e74b",
+      "unicode_decimal": 59211
+    },
+    {
+      "icon_id": "17134979",
+      "name": "text_buynow",
+      "font_class": "text_buynow",
+      "unicode": "e74c",
+      "unicode_decimal": 59212
+    },
+    {
+      "icon_id": "17134316",
+      "name": "bar_mall",
+      "font_class": "bar_mall",
+      "unicode": "e74a",
+      "unicode_decimal": 59210
+    },
+    {
+      "icon_id": "17134288",
+      "name": "bar_purchase",
+      "font_class": "bar_purchase",
+      "unicode": "e73c",
+      "unicode_decimal": 59196
+    },
+    {
+      "icon_id": "17134289",
+      "name": "bar_home",
+      "font_class": "bar_home",
+      "unicode": "e73d",
+      "unicode_decimal": 59197
+    },
+    {
+      "icon_id": "17134290",
+      "name": "comments_name",
+      "font_class": "comments_name",
+      "unicode": "e73e",
+      "unicode_decimal": 59198
+    },
+    {
+      "icon_id": "17134291",
+      "name": "close",
+      "font_class": "close",
+      "unicode": "e73f",
+      "unicode_decimal": 59199
+    },
+    {
+      "icon_id": "17134292",
+      "name": "comments_icon",
+      "font_class": "comments_icon",
+      "unicode": "e740",
+      "unicode_decimal": 59200
+    },
+    {
+      "icon_id": "17134293",
+      "name": "comments_area",
+      "font_class": "comments_area",
+      "unicode": "e741",
+      "unicode_decimal": 59201
+    },
+    {
+      "icon_id": "17134294",
+      "name": "comments_city",
+      "font_class": "comments_city",
+      "unicode": "e742",
+      "unicode_decimal": 59202
+    },
+    {
+      "icon_id": "17134295",
+      "name": "phone",
+      "font_class": "phone",
+      "unicode": "e743",
+      "unicode_decimal": 59203
+    },
+    {
+      "icon_id": "17134296",
+      "name": "space_textindoor",
+      "font_class": "space_textindoor",
+      "unicode": "e744",
+      "unicode_decimal": 59204
+    },
+    {
+      "icon_id": "17134297",
+      "name": "comments_submit",
+      "font_class": "comments_submit",
+      "unicode": "e745",
+      "unicode_decimal": 59205
+    },
+    {
+      "icon_id": "17134298",
+      "name": "space_textoutdoor",
+      "font_class": "space_textoutdoor",
+      "unicode": "e746",
+      "unicode_decimal": 59206
+    },
+    {
+      "icon_id": "17134299",
+      "name": "purchase_car",
+      "font_class": "purchase_car",
+      "unicode": "e747",
+      "unicode_decimal": 59207
+    },
+    {
+      "icon_id": "17134300",
+      "name": "space_textsport",
+      "font_class": "space_textsport",
+      "unicode": "e748",
+      "unicode_decimal": 59208
+    },
+    {
+      "icon_id": "17134301",
+      "name": "purchase_wheel",
+      "font_class": "purchase_wheel",
+      "unicode": "e749",
+      "unicode_decimal": 59209
+    }
+  ]
+}
